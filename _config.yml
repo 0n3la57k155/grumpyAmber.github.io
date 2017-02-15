@@ -1,56 +1,29 @@
-title: xcatliu / 流浪小猫
-description: A cat who writes code
+title: Amber Wang / 王婆
+description: 米闪工作室主理人（videomaker）
 
 social:
-  - title: GitHub
-    img: /assets/images/github.ico
-    url: https://github.com/xcatliu
-  - title: V2EX
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/xcatliu?r=xcatliu
-  - title: Blog
-    img: /assets/images/avatar.png
-    url: http://blog.xcatliu.com
-  - title: Twitter
-    img: /assets/images/twitter.ico
-    url: https://twitter.com/xcatliu
+
   - title: Gmail
     img: /assets/images/gmail.png
-    url: mailto:xcatliu@gmail.com
+    url: mailto:btbr403@gmail.com
 
 avatar: /assets/images/avatar.png
 introduction: >
-  Hi! My nickname is xcatliu.<br/>
-  中文昵称是流浪小猫，也可以叫我小猫。<br/>
-  Whenever you see this lovely cat, yeah that’s me!
-projects:
-  title: Open Source Projects
-  github:
-    - xcatliu/mobi.css
-    - xcatliu/typescript-tutorial
-    - xcatliu/react-ie8
-    - xcatliu/jekyllcn
-  content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
-working:
-  title: Working Experience
+  Hi! 我是米闪工作室主理人Amber.<br/>
+  2013年与我的好友兼老公一起开始了米闪工作室。<br/>
+  做一些没用又好玩的硬件小装置。
+
+Projects:
+  title: Projects
   timeline:
     - date: Now
-    - "Microsoft: Software Engineer II"
+    - "SlowDance"
     - date: 2016-04
-    - "Meituan: Senior Front-End Engineer"
-    - date: 2015-04
-    - "Meituan: Front-End Engineer"
-    - date: 2013-06
-    - "Meituan: Front-End Engineer Internship"
-    - date: 2012-10
+    - "Pixelstick"
+
 
 education:
-  title: Education Background
+  title: Public Management
   timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
-
-google_analytics: UA-45256157-13
+    - date: 2010-07
+    - "Bachelor of Jiangsu University of Science and Technology: Public Management"
