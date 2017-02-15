@@ -13,14 +13,14 @@ introduction: >
   2013年与我好友兼老公一起开始了米闪工作室。<br/>
   做一些没用又好玩的硬件小装置。
 
-Projects:
-  title: Projects
+
+working:
+  title: Working Experience
   timeline:
     - date: Now
-    - "SlowDance"
+    - "Slow Dance"
     - date: 2016-04
-    - "Pixelstick"
-
+    - "Pixel Stick"
 
 education:
   title: Public Management
