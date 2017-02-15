@@ -3,6 +3,10 @@ description: 工作在七牛云的市场小兵，业余打理米闪工作室。
 
 social:
 
+  - title: Facebook
+    img: /assets/images/facebook.png
+    url: https://www.facebook.com/amber.wang.161214
+
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:btbr403@gmail.com
