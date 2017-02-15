@@ -15,7 +15,7 @@ introduction: >
 
 
 working:
-  title: projects
+  title: Projects
   timeline:
     - date: Now
     - "Slow Dance"
@@ -23,7 +23,7 @@ working:
     - "Pixel Stick"
 
 education:
-  title: education
+  title: Education
   timeline:
     - date: 2010-07
     - "Bachelor of Jiangsu University of Science and Technology: Public Management"
